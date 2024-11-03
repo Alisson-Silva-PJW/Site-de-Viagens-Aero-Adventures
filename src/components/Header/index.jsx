@@ -5,15 +5,14 @@ import { Link } from "react-router-dom";
 
 const Header = () => {
   return (
-    <header>
-      <div className={styles.logo}>
-        <Link to="/">
-          <p>
-            Aero <span>Adventure</span>
-          </p>
-        </Link>
-      </div>
-      <nav>
+    <header className={styles.header}>
+      <Link className={styles.logo} to="/">
+        <p>
+          Aero <span>Adventure</span>
+        </p>
+      </Link>
+
+      <nav className={styles.nav}>
         <ul>
           <li>
             <Link to="/">Home</Link>

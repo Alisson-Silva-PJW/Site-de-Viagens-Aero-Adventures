@@ -1,0 +1,17 @@
+.aero_home {
+  display: flex;
+  gap: 20px;
+  flex-direction: column;
+  align-items: center;
+  background-color: brown;
+  width: 100vw;
+}
+.home_hero_banner {
+  width: 100%;
+  background-color: blue;
+}
+.container {
+  background-color: beige;
+  max-width: 1240px;
+  padding: 20px;
+}

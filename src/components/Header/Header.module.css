@@ -1,0 +1,22 @@
+/* GERAL */
+a {
+  text-decoration: none;
+  color: black;
+}
+/* HEADER */
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 100vw;
+  height: 80px;
+  background-color: aquamarine;
+  padding: 20px;
+}
+.nav ul {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style: none;
+}
