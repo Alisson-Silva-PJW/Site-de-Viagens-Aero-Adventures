@@ -70,27 +70,6 @@ const Home = () => {
             voluptas eligendi numquam, suscipit excepturi enim!
           </p>
         </section>
-
-        <section>
-          <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellat
-            atque doloribus deserunt harum adipisci velit nobis. Doloremque
-            distinctio perferendis, esse nesciunt eius incidunt mollitia,
-            voluptas eligendi numquam, suscipit excepturi enim!
-          </p>
-          <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellat
-            atque doloribus deserunt harum adipisci velit nobis. Doloremque
-            distinctio perferendis, esse nesciunt eius incidunt mollitia,
-            voluptas eligendi numquam, suscipit excepturi enim!
-          </p>
-          <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellat
-            atque doloribus deserunt harum adipisci velit nobis. Doloremque
-            distinctio perferendis, esse nesciunt eius incidunt mollitia,
-            voluptas eligendi numquam, suscipit excepturi enim!
-          </p>
-        </section>
         <section>
           <p>
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellat
